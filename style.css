@@ -17,3 +17,10 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+.icp{
+    margin: 10px;
+    border: 10px;
+    border-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+}
